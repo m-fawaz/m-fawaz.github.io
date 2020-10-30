@@ -22,7 +22,7 @@ url: 'https://m-fawaz.github.io'
 
 author: Mohammad Fawaz                  # change to your full name
 
-avatar: #/assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/llvm.png   # support internet resources
 
 github:
   username: m-fawaz             # change to your github username
